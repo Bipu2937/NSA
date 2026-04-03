@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">About</string>
+    <string name="about_content">Notification Saver captures and stores your notifications locally on your device. All data stays on your phone.</string>
+    <string name="app_name">Notification Saver</string>
+    <string name="auto_delete_days">Delete after (days)</string>
+    <string name="auto_delete_title">Auto-delete notifications</string>
+    <string name="capture_ongoing_summary">Include persistent/sticky notifications</string>
+    <string name="capture_ongoing_title">Capture ongoing notifications</string>
+    <string name="clear_all">Clear All Notifications</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="no_notifications">No notifications saved yet.</string>
+    <string name="notification_access_permission_message">This app needs notification access to capture and save your notifications.</string>
+    <string name="notification_access_permission_title">Notification Access Required</string>
+    <string name="search_notifications">Search notifications...</string>
+    <string name="settings">Settings</string>
+    <style name="Theme.NSA" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.nsa.app-merged_res-69:/xml_data_extraction_rules.xml.flat",
+        "source": "com.nsa.app-main-71:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.nsa.app-merged_res-69:/xml_backup_rules.xml.flat",
+        "source": "com.nsa.app-main-71:/xml/backup_rules.xml"
+    }
+]

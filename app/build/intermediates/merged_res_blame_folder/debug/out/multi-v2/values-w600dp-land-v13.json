@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nsa.app-mergeDebugResources-67:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/home/mdabusaimbipu/.gradle/caches/8.11.1/transforms/e584d0513c805ba524581c1a534a14fa/transformed/material-1.10.0/res/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

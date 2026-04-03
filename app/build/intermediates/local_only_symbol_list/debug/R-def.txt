@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+string about
+string about_content
+string app_name
+string auto_delete_days
+string auto_delete_title
+string capture_ongoing_summary
+string capture_ongoing_title
+string clear_all
+string grant_permission
+string no_notifications
+string notification_access_permission_message
+string notification_access_permission_title
+string search_notifications
+string settings
+style Theme.NSA
+xml backup_rules
+xml data_extraction_rules
